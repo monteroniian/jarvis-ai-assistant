@@ -1,0 +1,11 @@
+.env
+.spotify_cache
+__pycache__/
+*.pyc
+piper_voice/
+rvc_voice/
+*.onnx
+*.ort
+*.dll
+*.mp3
+*.wav
